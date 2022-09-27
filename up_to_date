@@ -1,1 +1,4 @@
-cat > up_to_date
+touch up_to_date
+vi up_to_date
+esc - i to edit it vi
+control+c then :wq! to save and close vi editor
